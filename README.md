@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reagan Enoch</h1>
-<h3 align="center">A software engineer in Africa</h3>
+<h3 align="center">A software engineer in Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reagandennis&label=Profile%20views&color=0e75b6&style=flat" alt="reagandennis" /> </p>
 
