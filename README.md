@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/reaganenochowi2" target="blank"><img src="https://img.shields.io/twitter/follow/reaganenochowi2?logo=twitter&style=for-the-badge" alt="reaganenochowi2" /></a> </p>
 
-- 🔭 I’m currently working on [fintech startup](https://github.com/Reagandennis/flutter_payment_app_starter)
+- 🔭 I’m currently working for an edtech company [Techgetafrica](https://www.techgetafrica.com/)
 
-- 🌱 I’m currently learning **Flutter, dart, Java, react etc.**
+- 🌱 I’m currently learning **algorithms, compilers, Java, react etc.**
 
 - 👯 I’m looking to collaborate on [flutter projects](https://github.com/Reagandennis/flutter_payment_app_starter)
 
