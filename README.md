@@ -1,47 +1,119 @@
-<h1 align="center">Hi 👋, I'm Reagan Enoch</h1>
-<h3 align="center">A software engineer in Kenya</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Reagan Enoch
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reagandennis&label=Profile%20views&color=0e75b6&style=flat" alt="reagandennis" /> </p>
+### Software Engineer | Mobile Development Specialist | EdTech Innovator
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reagandennis" alt="reagandennis" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/reaganenochowi2" target="blank"><img src="https://img.shields.io/twitter/follow/reaganenochowi2?logo=twitter&style=for-the-badge" alt="reaganenochowi2" /></a> </p>
-
-- 🔭 I’m currently working for an edtech company [Techgetafrica](https://www.techgetafrica.com/)
-
-- 🌱 I’m currently learning **algorithms, compilers, Java, react etc.**
-
-- 👯 I’m looking to collaborate on [flutter projects](https://github.com/Reagandennis/flutter_payment_app_starter)
-
-- 🤝 I’m looking for help with [fintech startup](https://github.com/Reagandennis/flutter_payment_app_starter)
-
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-
-- 📝 I regularly write articles on [coming soon](coming soon)
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **reaganprezzo@gmail.com**
-
-- 📄 Know about my experiences [coming soon](coming soon)
-
-- i love music **i think am smart**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/reaganenochowi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reaganenochowi2" height="30" width="40" /></a>
-<a href="https://medium.com/@reaganprezzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reaganprezzo" height="30" width="40" /></a>
+<p>
+  <a href="https://twitter.com/reaganenochowi2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://medium.com/@reaganprezzo"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:reaganprezzo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=reagandennis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reagandennis&show_icons=true&locale=en&layout=compact" alt="reagandennis" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reagandennis&show_icons=true&locale=en" alt="reagandennis" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reagandennis&" alt="reagandennis" /></p>
+## 🚀 About Me
+
+I'm a passionate software engineer based in Kenya, specializing in **mobile application development** and **cross-platform solutions**. Currently driving innovation at [Techgetafrica](https://www.techgetafrica.com/), where I build impactful educational technology solutions that empower learners across Africa.
+
+With expertise in **Flutter**, **React**, and full-stack development, I transform ideas into elegant, user-centric applications. I'm particularly passionate about fintech solutions and creating technology that makes a difference in people's lives.
+
+### 🎯 What I'm Working On
+
+- 🏢 **Software Engineer** at [Techgetafrica](https://www.techgetafrica.com/) - Building next-generation EdTech solutions
+- 💡 Developing a [Fintech Payment Application](https://github.com/Reagandennis/flutter_payment_app_starter) - Revolutionizing mobile payments in emerging markets
+- 📚 Deep-diving into **algorithms, compilers, and modern web frameworks**
+- 🎵 Music enthusiast and creative problem solver
+
+### 💼 Let's Collaborate!
+
+I'm actively seeking opportunities to collaborate on:
+- 📱 **Flutter & React Native Projects** - Cross-platform mobile excellence
+- 💰 **Fintech Innovations** - Payment systems, digital wallets, blockchain
+- 🎓 **EdTech Solutions** - Educational platforms and learning tools
+- 🌍 **Social Impact Projects** - Technology for good
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reagandennis&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Reagan's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reagandennis&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reagandennis&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+*Stay tuned for insights on mobile development, software engineering best practices, and tech innovation in Africa!*
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to connect with fellow developers, potential collaborators, and innovative teams. Whether you have a project in mind, want to discuss technology trends, or just want to say hi - I'd love to hear from you!
+
+<div align="center">
+
+### 💌 Reach Out
+
+**Email:** [reaganprezzo@gmail.com](mailto:reaganprezzo@gmail.com)
+
+**Social Media:**
+<p>
+  <a href="https://twitter.com/reaganenochowi2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://medium.com/@reaganprezzo"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
+
+### 📬 Open to:
+✅ Freelance Projects | ✅ Full-time Opportunities | ✅ Technical Collaborations | ✅ Speaking Engagements
+
+---
+
+<p align="center">
+  <i>⭐️ "Building the future, one line of code at a time" ⭐️</i>
+</p>
+
+</div>
