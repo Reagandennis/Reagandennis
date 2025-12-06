@@ -25,7 +25,7 @@ With expertise in **Flutter**, **React**, and full-stack development, I transfor
 ### 🎯 What I'm Working On
 
 - 🏢 **Software Engineer** at [Techgetafrica](https://www.techgetafrica.com/) - Building next-generation EdTech solutions
-- 💡 Developing a [Fintech Payment Application](https://github.com/Reagandennis/flutter_payment_app_starter) - Revolutionizing mobile payments in emerging markets
+- 💡 Developing a [Fintech Payment Application](https://github.com/Reagandennis/flutter_payment_app_starter) - Building mobile payment solutions for emerging markets
 - 📚 Deep-diving into **algorithms, compilers, and modern web frameworks**
 - 🎵 Music enthusiast and creative problem solver
 
@@ -86,7 +86,6 @@ I'm actively seeking opportunities to collaborate on:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-*Stay tuned for insights on mobile development, software engineering best practices, and tech innovation in Africa!*
 <!-- BLOG-POST-LIST:END -->
 
 ---
