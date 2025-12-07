@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Software Engineer at [Techgetafrica](https://www.techgetafrica.com/) - an EdTech company
-- 🎯 Specializing in **Flutter** development for cross-platform mobile applications
-- 🌱 Currently deepening my knowledge in **algorithms**, **compilers**, **Java**, and **React**
-- 🚀 Open to collaborating on **Flutter projects** and **fintech solutions**
-- 💬 Feel free to ask me about **Flutter**, **Dart**, and **mobile development**
-- 📫 Reach me at: **reaganprezzo@gmail.com**
+- 🏢 Founder at [Techgetafrica](https://www.techgetafrica.com/) - an EdTech company and Echo Phycology [EchoPhycology](https://echopsychology.com/) - a health platform connecting therapits to clients worldwide.
+- 🎯 Specializing in **Software Engineering** development for scalable applications. 
+- 🌱 Currently deepening my knowledge in **algorithms**, **compilers**, **Java**, **React** , **C++** and **C#**
+- 🚀 Open to collaborating on **Flutter projects** and **Exicting-ideas**
+- 💬 Feel free to ask me about **Bugs🐛**, **Servers**, and **softwareengineering**
+- 📫 Reach me at: **reaganprezzo@gmail.com** or Whatsapp me: **+254796004050**
 
 ---
 
